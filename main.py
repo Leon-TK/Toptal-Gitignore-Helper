@@ -91,4 +91,4 @@ def AddIgnores(file):
     InsertToGitIgnore(file, "# folder contains content for test\n[Tt]estContent/")
 
 GenerateGitIgnore()
-CreateFolders()
+#CreateFolders()

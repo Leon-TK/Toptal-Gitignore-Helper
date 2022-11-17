@@ -1,0 +1,1 @@
+Initial feature - script that fetchs .gitignore file from web service
